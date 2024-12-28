@@ -1,0 +1,30 @@
+header
+{
+    background-color: rgb(193, 54, 54);
+    height: 60px;
+}
+body
+{
+    color: white;
+    margin: 0px;
+}
+.content-wrapper
+{
+    background-color: bisque;
+    height: 300px;
+}
+footer
+{
+    height: 40px;
+    background-color: black;
+}
+.header-row1
+{
+    background-color: green;
+    text-align: center;
+   
+}
+.header-row1 h2
+{
+    margin: 0;
+}
